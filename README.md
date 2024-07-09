@@ -1,4 +1,6 @@
-<center>### Hi , I'm Lingfeng Wei.</center>
+<div align="center">
+   <h1>Hi there, I'm <a href="https://blog.wlfpanda1012.com">Lingfeng Wei</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+</div>
 
 ## About me
 
