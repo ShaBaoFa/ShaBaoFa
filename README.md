@@ -4,10 +4,26 @@
 
 ## About me
 
-- 👾 I am a **backend developer** from China 🇨🇳, and I am currently working in a company in Hangzhou
-- ❤️ I like open source and am currently learning PHP and python.
+<p align="center"> 👾 I am a **backend developer** from China 🇨🇳, and I am currently working in a company in Hangzhou</p>
+<p align="center">❤️ I like open source and am currently learning PHP and python.</p>
 
-## Languages and Tools
+## use Languages
+<img src="svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:4px">
+<img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+<img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
+<img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+<img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
+
+## I build with...
+<img src="svg/dev/tools/jetbrains_phpstorm.svg" alt="jetbrains_phpstorm" style="vertical-align:top; margin:4px">
+<img src="svg/dev/tools/jetbrains_webstorm.svg" alt="jetbrains_webstorm" style="vertical-align:top; margin:4px">
+<img src="svg/dev/tools/jetbrains_pycharm.svg" alt="jetbrains_pycharm" style="vertical-align:top; margin:4px">
+<img src="svg/dev/tools/jetbrains_intellij.svg" alt="jetbrains_intellij" style="vertical-align:top; margin:4px">
+<img src="svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:4px">
+<img src="svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
+
+## PHP Framework
+<img src="svg/dev/frameworks/laravel.svg" alt="laravel" style="vertical-align:top; margin:4px">
 
 
 <p align="center">
