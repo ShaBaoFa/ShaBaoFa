@@ -1,4 +1,4 @@
-### Hi , I'm Lingfeng Wei.
+<center>### Hi , I'm Lingfeng Wei.</center>
 
 ## About me
 
