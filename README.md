@@ -9,6 +9,7 @@
 
 ## use Languages
 <div align="center">
+   <img src="svg/dev/languages/go.svg" alt="go" style="vertical-align:top; margin:4px">
 <img src="svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:4px">
 <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
 <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
